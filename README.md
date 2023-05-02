@@ -5,7 +5,7 @@
 
 ## Description
 
-The Pythakon is an **IOT Based Railway Accident Prevention System** ,initially made for 36 hour hackathon at University (PS : WE WON THAT HACKATHON) .
+The Pythakon is an **IOT Based Railway Accident Prevention System** ,initially made for 36 hour hackathon at Charusat University (PS : WE WON THAT HACKATHON) .
 - Rail accidents are one of the major issues till the present day. Despite safety measures, at least one major accident is recorded every year. 
 - The aim of this project is to present a handy module consisting of sensors and micro systems which are used to detect faults which cause accidents.
 - Through this project we are  making a device that will alert the people or vehicles at level crossing that a train is coming and it will also make a siren. So that the people get aware that the train is coming and
@@ -14,12 +14,12 @@ they have to wait till the train crosses.
 ### Configuration
 
 - `Present a handy module consisting of sensors and microsystems which are used to detect faults which cause accidents.
-- 'The causes of accidents are categorized into different modules which include anti-collision,track detection, object detection, level crossing.
+- 'The causes of accidents are categorized into different modules which include anti-collision,track detection, object detection, level crossing and detect the presence of the guard at level crossing.
 
 ## Getting Started
 
    ### Deployment
-- To run this project, install it locally and you'll need hardware support(esp) for this you'll need sensors too.
+- To run this project, install it locally and you'll need hardware support(esp 8266) for this you'll need sensors too.
 - You can deploy the site for attendence from the specific folder. It is made for:)
      
 
@@ -30,15 +30,14 @@ For help getting started with IOT development, view the
 ##  Technologies Used:
 
 ### TOOLS
-- [PYCHARM:](https://www.jetbrains.com/pycharm/) : PYCHARM IS AN IDE USED FOR THIS.
-- [ARDUINO:](https://dart.dev/): An OPENSOURCE ELECTRONICS SYSTEM based on easy to use hardware.
+- [PYCHARM](https://www.jetbrains.com/pycharm/): PYCHARM IS AN IDE USED FOR THIS.
+- [ARDUINO](https://dart.dev/): An OPENSOURCE ELECTRONICS SYSTEM based on easy to use hardware.
 - [POSTMAN](https://docs.swift.org/swift-book/): AN API (Application Programming interface) development tool.
-- [C++](https://en.cppreference.com/w/c/language): The documentation has been linked for viewers to check.
 
 ### FRONTEND
--  HTML : C'mon you know what's html for 
--  CSS  :  Used it for styling .
-- [JAVASCRIPT:](https://developer.mozilla.org/en-US/docs/Web/JavaScript):Please Refer to Official Documentation.
+-  HTML: C'mon you know what's html for 
+-  CSS:  Used it for styling .
+- [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript):Please Refer to Official Documentation.
 
 <!-- CONTACT -->
 ## Contact
