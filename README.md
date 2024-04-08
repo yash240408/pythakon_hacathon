@@ -30,14 +30,36 @@ For help getting started with IOT development, view the
 ##  Technologies Used:
 
 ### TOOLS
-- [PYCHARM](https://www.jetbrains.com/pycharm/): PYCHARM IS AN IDE USED FOR THIS.
-- [ARDUINO](https://dart.dev/): An OPENSOURCE ELECTRONICS SYSTEM based on easy to use hardware.
-- [POSTMAN](https://docs.swift.org/swift-book/): AN API (Application Programming interface) development tool.
+- [PYCHARM](https://www.jetbrains.com/pycharm/): PYCHARM is an ide used to built this project.
+- [ARDUINO](https://www.arduino.cc/): An OPENSOURCE ELECTRONICS SYSTEM based on easy to use hardware.
+- [POSTMAN](https://postman.com): AN API (Application Programming interface) development tool.
 
 ### FRONTEND
--  [HTML](https://developer.mozilla.org/en-US/docs/Web/html): Please Refer to Official Documentation
--  [CSS](https://developer.mozilla.org/en-US/docs/Web/html): Please Refer to Official Documentation
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/html): Please Refer to Official Documentation
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/html): Please Refer to Official Documentation
 - [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript):Please Refer to Official Documentation.
+
+
+
+## Local Implementation:
+- Clone the repository
+
+```
+git clone https://github.com/yash240408/pythakon_hackathon
+```
+
+- Navigate to the project directory
+```
+cd pythakon_hackathon
+```
+- Install dependencies
+```
+pip install -r requirements.txt
+```
+- Run the Django application
+```
+python manage.py runserver
+```
 
 <!-- CONTACT -->
 ## Contact
