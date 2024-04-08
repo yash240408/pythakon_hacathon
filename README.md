@@ -13,8 +13,8 @@ they have to wait till the train crosses.
 
 ### Configuration
 
-- `Present a handy module consisting of sensors and microsystems which are used to detect faults which cause accidents.
-- 'The causes of accidents are categorized into different modules which include anti-collision,track detection, object detection, level crossing and detect the presence of the guard at level crossing.
+- `Present a handy module consisting of sensors and microsystems which are used to detect faults which cause accidents`.
+- `The causes of accidents are categorized into different modules which include anti-collision,track detection, object detection, level crossing and detect the presence of the guard at level crossing`.
 
 ## Getting Started
 
@@ -35,8 +35,8 @@ For help getting started with IOT development, view the
 - [POSTMAN](https://docs.swift.org/swift-book/): AN API (Application Programming interface) development tool.
 
 ### FRONTEND
--  HTML: C'mon you know what's html for 
--  CSS:  Used it for styling .
+-  [HTML](https://developer.mozilla.org/en-US/docs/Web/html): Please Refer to Official Documentation
+-  [CSS](https://developer.mozilla.org/en-US/docs/Web/html): Please Refer to Official Documentation
 - [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript):Please Refer to Official Documentation.
 
 <!-- CONTACT -->
@@ -50,12 +50,16 @@ For help getting started with IOT development, view the
   <img align="center" alt="yash's mail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" />
 </a> 
 </p>
+<p>
+📫 Het Shah -
+<a href="https://www.linkedin.com/in/hetshah4304/">
+  <img align="center" alt="yash linkedin" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a> 
+<a href="mailto:het4304@gmail.com">
+  <img align="center" alt="het's mail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" />
+</a> 
+</p>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Choose an Open Source License](https://choosealicense.com)
-<p align="right">(<a href="#top">back to top</a>)</p>  
 
 ## Miscellaneous
 Do consider looking at other paradigms of this documentation
